@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\sistemaalumnos.fe\\formmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\formmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\forminscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\forminscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\sistemaalumnos.fe\\forminscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\forminscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\formmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\formmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\formmat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\formmat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\sistemaalumnos.fe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\services\\alumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\services\\alumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\forminscripciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\forminscripciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\services\\inscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\services\\inscripcionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\services\\materiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\services\\materiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\models\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\models\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\forminscripciones.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\forminscripciones.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\formmat.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\formmat.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|c:\\users\\allem\\desktop\\proyecto_repo_prog3_fe\\sistemaalumnos.fe\\sistemaalumnos.fe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF7C24DE-DB6F-4881-8729-DC53B8D12280}|SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj|solutionrelative:sistemaalumnos.fe\\sistemaalumnos.fe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\Program.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Program.cs",
+              "RelativeToolTip": "SistemaAlumnos.FE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:16:46.904Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormInscripciones.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormInscripciones.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\FormInscripciones.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormInscripciones.cs",
+              "RelativeToolTip": "SistemaAlumnos.FE\\FormInscripciones.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAmwMYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:53:21.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\Form1.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Form1.cs*",
+              "RelativeToolTip": "SistemaAlumnos.FE\\Form1.cs*",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAgwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T15:37:11.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormInscripciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormInscripciones.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\FormInscripciones.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormInscripciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaAlumnos.FE\\FormInscripciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:15:38.956Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMat.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormMat.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\FormMat.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormMat.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "SistemaAlumnos.FE\\FormMat.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:24:24.092Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMat.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormMat.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\FormMat.Designer.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormMat.Designer.cs*",
+              "RelativeToolTip": "SistemaAlumnos.FE\\FormMat.Designer.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:10:05.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMat.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormMat.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\FormMat.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormMat.cs*",
+              "RelativeToolTip": "SistemaAlumnos.FE\\FormMat.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:49:40.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\Form1.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "SistemaAlumnos.FE\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T15:28:11.6Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlumnoService.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Services\\AlumnoService.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\Services\\AlumnoService.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Services\\AlumnoService.cs",
+              "RelativeToolTip": "SistemaAlumnos.FE\\Services\\AlumnoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:38:51.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormInscripciones.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormInscripciones.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\FormInscripciones.Designer.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormInscripciones.Designer.cs",
+              "RelativeToolTip": "SistemaAlumnos.FE\\FormInscripciones.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T23:05:59.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InscripcionService.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Services\\InscripcionService.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\Services\\InscripcionService.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Services\\InscripcionService.cs",
+              "RelativeToolTip": "SistemaAlumnos.FE\\Services\\InscripcionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:07:55.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MateriaService.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Services\\MateriaService.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\Services\\MateriaService.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Services\\MateriaService.cs",
+              "RelativeToolTip": "SistemaAlumnos.FE\\Services\\MateriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:15:12.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Models\\Materia.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\Models\\Materia.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Models\\Materia.cs",
+              "RelativeToolTip": "SistemaAlumnos.FE\\Models\\Materia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:18:46.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inscripciones.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Models\\Inscripciones.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\Models\\Inscripciones.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Models\\Inscripciones.cs",
+              "RelativeToolTip": "SistemaAlumnos.FE\\Models\\Inscripciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:21:20.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\Models\\Alumno.cs",
+              "RelativeToolTip": "SistemaAlumnos.FE\\Models\\Alumno.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:59:54.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormInscripciones.resx",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormInscripciones.resx",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\FormInscripciones.resx",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormInscripciones.resx",
+              "RelativeToolTip": "SistemaAlumnos.FE\\FormInscripciones.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-26T23:43:41.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormMat.resx",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormMat.resx",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\FormMat.resx",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\FormMat.resx*",
+              "RelativeToolTip": "SistemaAlumnos.FE\\FormMat.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-26T21:10:55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SistemaAlumnos.FE.csproj",
+              "DocumentMoniker": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj",
+              "RelativeDocumentMoniker": "SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj",
+              "ToolTip": "C:\\Users\\allem\\Desktop\\proyecto_repo_prog3_FE\\SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj",
+              "RelativeToolTip": "SistemaAlumnos.FE\\SistemaAlumnos.FE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T19:09:35.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
